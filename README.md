@@ -11,4 +11,4 @@ This is my Task 1 submission for the Full Stack Web Development Internship at Fu
 https://katherinruba-20.github.io/FUTURE_FS_01/
 
 ## Author
-KATHERIN RUBA
+KATHERIN RUBA SJ
