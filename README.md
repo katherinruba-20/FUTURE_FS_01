@@ -8,7 +8,7 @@ This is my Task 1 submission for the Full Stack Web Development Internship at Fu
 - JavaScript
 
 ## Live Demo
-(Add your GitHub Pages link here)
+https://katherinruba-20.github.io/FUTURE_FS_01/
 
 ## Author
 KATHERIN RUBA
